@@ -1,5 +1,7 @@
 arm PELION Device Shadow bridge (SAMPLE template)
   
+09/13/2018: synced update
+
 09/10/2018: initial checkin
 
 Bridge source (Apache 2.0 licensed - Enjoy!): https://github.com/ARMmbed/pelion-bridge.git
