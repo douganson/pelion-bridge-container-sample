@@ -1,6 +1,6 @@
 arm PELION Device Shadow bridge (SAMPLE template)
   
-10/09/2018: updated bridge - MQTT fixes, HTTP fixes, device discvoery fixes and tweaks, IoTHub fixes
+10/09/2018: updated bridge - MQTT fixes, HTTP fixes, device discvoery fixes and tweaks, IoTHub fixes, Max # Shadows
 
 10/07/2018: updated bridge - lots of fixes for device deletion
 
